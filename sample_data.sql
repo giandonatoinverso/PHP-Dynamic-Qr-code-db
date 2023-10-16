@@ -74,7 +74,7 @@ INSERT INTO `#prefix#static_qrcodes` (`id`, `id_owner`, `filename`, `format`, `t
 (9, 1, 'Save me', 'svg', 'bookmark', '<strong>Title:</strong> Google search<br><strong>Url:</strong> https://google.it', 'Save me.svg', 'enable', 0, '2020-08-24 08:59:46', 0, NULL),
 (10, 1, 'Free wifi', 'png', 'wifi', '<strong>Encryption:</strong> WPA<br><strong>SSID:</strong> TP-LINK-AB123<br><strong>Password:</strong> bBB8MR7TwbbUWMZT', 'Free wifi.png', 'enable', 0, '2020-08-24 09:02:35', 0, NULL),
 (11, 1, 'Pay here', 'png', 'paypal', '<div class="row"><div class="col-sm-4"><strong>Payment type:</strong> _click<br><strong>Email:</strong> paypal@domain.com<br><strong>Item name:</strong> T-shirt<br><strong>Item id:</strong> 177</div><div class="col-sm-4"><strong>Amount:</strong> 15<br><strong>Currency:</strong> USD<br><strong>Shipping:</strong> 4<br><strong>Tax rate:</strong> </div></div>', 'Pay here.png', 'enable', 0, '2020-08-24 09:04:13', 0, NULL),
-(12, 1, 'Send BTC ', 'jpg', 'bitcoin', '<strong>BTC address:</strong> 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa<br><strong>Amount:</strong> 1<br><strong>Label:</strong> <br><strong>Message:</strong> ', 'Send BTC .jpg', 'enable', 0, '2020-09-01 10:51:08', 0, NULL);
+(12, 1, 'Send BTC', 'jpg', 'bitcoin', '<strong>BTC address:</strong> 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa<br><strong>Amount:</strong> 1<br><strong>Label:</strong> <br><strong>Message:</strong> ', 'Send BTC .jpg', 'enable', 0, '2020-09-01 10:51:08', 0, NULL);
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;
 /*!40101 SET CHARACTER_SET_RESULTS=@OLD_CHARACTER_SET_RESULTS */;
